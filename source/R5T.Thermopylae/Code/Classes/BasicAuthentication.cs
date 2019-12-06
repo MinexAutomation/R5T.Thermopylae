@@ -5,7 +5,7 @@ namespace R5T.Thermopylae
 {
     public class BasicAuthentication
     {
-        public static Username Username { get; set; }
-        public static Password Password { get; set; }
+        public Username Username { get; set; }
+        public Password Password { get; set; }
     }
 }
